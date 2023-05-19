@@ -1,0 +1,6 @@
+Главная * (http://xxxxxx-m1.wsr.ru)
+Вход * (http://xxxxxx-m1.wsr.ru/login)
+Регистрация * (http://xxxxxx-m1.wsr.ru/signup)
+Контакты * (http://xxxxxx-m1.wsr.ru/contact)
+Новости * (http://xxxxxx-m1.wsr.ru/news)
+Обратная связь * (http://xxxxxx-m1.wsr.ru/feedback)
